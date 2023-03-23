@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "link":"https://hotram89.github.io/P2_Integrer_une_maquette/", 
+        "img": "booki.png",
+        "description": "booki preview",
+        "name": "Booki",
+        "type": "webP",
+        "technos": ["HTML","CSS"]
+    },
+    {
+        "id": 2,
+        "link":"#", 
+        "img": "portfolio.JPG",
+        "description": "portfolio preview",
+        "name": "Portfolio",
+        "type": "webP",
+        "technos": ["HTML","CSS","Javascript"]
+    },
+    {
+        "id": 3,
+        "link":"https://hotram89.github.io/MarionDournel_3_09112021/", 
+        "img": "ohmyfood.png",
+        "description": "menu",
+        "name": "OhMyFood",
+        "type": "webP",
+        "technos": ["HTML","CSS","Sass"]
+    },
+    {
+        "id": 4,
+        "link":"https://hotram89.github.io/Front-End-Fisheye/", 
+        "img": "fisheye.JPG",
+        "description": "fisheye preview",
+        "name": "Fisheye ",
+        "type": "webP",
+        "technos": ["HTML","CSS","Javascript"]
+    },
+    {
+        "id": 5,
+        "link":"https://hotram89.github.io/P7_Les_petits_plats/", 
+        "img": "maquette2.JPG",
+        "description": "petitsplats preview",
+        "name": "Petits plats",
+        "type": "webP",
+        "technos": ["Algorithme","Javascript"]
+    },
+    {
+        "id": 6,
+        "link":"https://www.figma.com/file/B9uWrgTZ8eS1eFtHxwSg38/Maquettes-Learn%40Home---Dournel-Marion?node-id=67%3A532&t=NgDe0sDOaVTGEB3P-1", 
+        "img": "profil.JPG",
+        "description": "learn@home preview",
+        "name": "Learn@home",
+        "type": "DesignP",
+        "technos": ["UX","Figma"]
+    },
+    {
+        "id": 7,
+        "link":"https://www.behance.net/gallery/31589367/Audi-R8-3D-Modeling", 
+        "img": "car.png",
+        "description": "car 3d",
+        "name": "Audi 3D",
+        "type": "DesignP",
+        "technos": ["Maya","Autodesk"]
+    },
+    {
+        "id": 8,
+        "link":"https://www.youtube.com/watch?v=oy_msnPzqk4", 
+        "img": "bonjour_miniature.JPG",
+        "description": "presentation video",
+        "name": "video CV",
+        "type": "DesignP",
+        "technos": ["After Effects","Illustrator"]
+    }
+
+]
